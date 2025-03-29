@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-cap = cv2.VideoCapture(r"C:\Users\patma\OneDrive\Imagens\Video 111 double0.mp4")
+cap = cv2.VideoCapture(r"C:\Caminho\do\Video 111 double0.mp4")
 
 triangles_count = 0
 squares_count = 0
